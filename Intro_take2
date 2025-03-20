@@ -1,0 +1,14 @@
+#integer (Whole number)
+Age = 30
+#Float (decimal number)
+Height = 7.895
+#String (text)
+Name = 'Jesse'
+#boolean (true/false)
+student = True
+
+#check data type
+print(type(Age)) #output: < class 'Int'>
+print(type(Height)) # output: < class 'decimal'>
+print(type(Name)) #output: <class 'str'>
+print(type(student)) #output: <class <'bool'>
